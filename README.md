@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edsonmendieta
-- 👀 I’m interested in stuff.
+- 👀 I’m interested in all things.
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: emendietaj@gmail.com
