@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edsonmendieta
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on interesting projects.
+- 🌱 Currently a back-end focused engineer
+- 💞️ I’m looking for new opportunities
 - 📫 How to reach me: edsonj.mendieta@gmail.com
 
 <!---
